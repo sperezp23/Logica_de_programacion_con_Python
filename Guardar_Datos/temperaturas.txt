@@ -1,0 +1,8 @@
+Sol,5778.15,K
+Mercurio,738.15,K
+Venus,722.15,K
+Tierra,280.25,K
+Marte,230.15,K
+Jupiter,120.15,K
+Saturno,89.15,K
+Urano,89.15,K
